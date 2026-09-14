@@ -24,10 +24,6 @@ add_executable(CLionGraphicsKit main.cpp
         Kivalaszto_os.hpp
         Legordulo.cpp
         Legordulo.hpp
-        Sudoku_rajz.cpp
-        Sudoku_rajz.hpp
-        Jatek_mester.cpp
-        Jatek_mester.hpp
         Os_alkalmazas.cpp
         Os_alkalmazas.hpp
         Gomb.cpp

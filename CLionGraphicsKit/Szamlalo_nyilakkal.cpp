@@ -2,7 +2,6 @@
 #include <iostream>
 #include <functional>
 #include "graphics.hpp"
-#include "Jatek_mester.hpp"
 #include "Os_alkalmazas.hpp"
 //az a számláló widget, amelyen a fel és le nyilas gombokkal lehet állítani a szám értékét
 
