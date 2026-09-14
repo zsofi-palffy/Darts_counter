@@ -19,7 +19,7 @@ void Gomb::rajzol() {
       gout << color(0,0,0)
            << move_to(x, y)
            << box(sizex, sizey)
-           << color(255,255,255)
+           << color(230,230,230)
            << move_to(x + 3, y + 3)
            << box(sizex - 6, sizey - 6);
       gout.load_font("LiberationSans-Regular.ttf", 20);
